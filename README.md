@@ -44,4 +44,4 @@
 ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(2).png)
 ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(3).png)
 ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(4).png)
-![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(5).png)
+
