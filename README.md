@@ -31,16 +31,17 @@
 ## sample
 
 - Frontend Cleint Side
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/TOURNAMENT.jpg)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (5).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (6).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (7).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (8).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (9).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (10).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/TOURNAMENT.jpg)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(5).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(6).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(7).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(8).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(9).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(10).png)
 - Admin Side
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (1).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (2).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (3).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (4).png)
-  ![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1 (5).png)
+
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(1).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(2).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(3).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(4).png)
+![img](https://github.com/ayushsolanki29/esport-tournament-organization-app-php/blob/main/screenshot/1(5).png)
